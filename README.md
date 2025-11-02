@@ -1,6 +1,6 @@
 # Proyek Analisis Kinerja Bisnis Kimia Farma (2020-2023)
+# Author: Rania
 Ini adalah *submission* untuk *Final Task* Project-Based Internship: Big Data Analytics di Kimia Farma, oleh Rakamin Academy.
-Author: Rania
 
 ## Deskripsi Proyek
 Proyek ini mencakup proses ETL (Extract, Transform, Load) data mentah Kimia Farma dari empat sumber berbeda, dilanjutkan dengan analisis dan visualisasi kinerja bisnis dari tahun 2020-2023.
