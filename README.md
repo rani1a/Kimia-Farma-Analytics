@@ -1,5 +1,6 @@
-# Proyek Analisis Kinerja Bisnis Kimia Farma (2020-2023)
-# Author: Rania
+# Proyek Analisis Kinerja Bisnis Kimia Farma (2020-2023) 
+Author: Rania
+
 Ini adalah *submission* untuk *Final Task* Project-Based Internship: Big Data Analytics di Kimia Farma, oleh Rakamin Academy.
 
 ## Deskripsi Proyek
